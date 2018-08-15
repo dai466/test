@@ -1,2 +1,4 @@
 # test
-paints
+HEAD
+paint2
+origin/master
